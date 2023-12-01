@@ -117,8 +117,8 @@ dependencies:
     specifier: ^1.1.1
     version: 1.1.1
   ai:
-    specifier: ^2.2.20
-    version: 2.2.20(react@18.2.0)(solid-js@1.7.12)(svelte@4.2.1)(vue@3.3.4)
+    specifier: ^2.2.27
+    version: 2.2.27(react@18.2.0)(solid-js@1.7.12)(svelte@4.2.1)(vue@3.3.4)
   class-variance-authority:
     specifier: ^0.7.0
     version: 0.7.0
@@ -6110,8 +6110,8 @@ packages:
       indent-string: 4.0.0
     dev: false
 
-  /ai@2.2.20(react@18.2.0)(solid-js@1.7.12)(svelte@4.2.1)(vue@3.3.4):
-    resolution: {integrity: sha512-BTZ8VEsIdapZM46Tt72FzYPY4Kt55ANpYubUSYJCrrdUfMDCPfT/XwqPsXZam1i7Go6YrUPha9VBdrvzQxBtXw==}
+  /ai@2.2.27(react@18.2.0)(solid-js@1.7.12)(svelte@4.2.1)(vue@3.3.4):
+    resolution: {integrity: sha512-s/F1CfduvLVAnrWHKqwvJLBeGadXNb7D4fmYQv+YcTxUTmqKZYPlQ5wikxteeKmJ1QajTpPI0lz0/zIm/4a7vw==}
     engines: {node: '>=14.6'}
     peerDependencies:
       react: ^18.2.0
